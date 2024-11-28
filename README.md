@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I've code with</h2>
+<h2 align="left">I've coded with</h2>
 
 ###
 
