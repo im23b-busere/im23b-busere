@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Erik and im a 16y old Student at a vocational IT school in Switzerland CH</p>
+<p align="left">My name is Erik and im a 17y old Student at a vocational IT school in Switzerland CH</p>
 
 ###
 
